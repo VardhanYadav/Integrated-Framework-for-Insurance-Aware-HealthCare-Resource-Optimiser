@@ -1,4 +1,4 @@
-# Health Risk Management System 🚑
+# Integrated-Framework-for-Insurance-Aware-HealthCare-Resource-Optimiser 🚑
 
 Welcome to the **Health Risk Management System**, a comprehensive solution designed to empower individuals in managing health risks and making informed decisions during emergencies.
 
